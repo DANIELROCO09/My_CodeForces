@@ -1,4 +1,5 @@
 🚀 Soluciones de Codeforces
+
 ¡Hola! 👋 Bienvenido a mi repositorio de programación competitiva, donde subo mis soluciones a problemas de Codeforces. Aquí encontrarás código, ideas y algunas notas sobre cómo resolví ciertos desafíos. Espero que te sirva de inspiración o ayuda!
 
 🧑‍💻 Sobre mí

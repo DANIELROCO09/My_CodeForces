@@ -1,37 +1,32 @@
 🚀 Soluciones de Codeforces
+¡Hola! 👋 Bienvenido a mi repositorio de programación competitiva, donde subo mis soluciones a problemas de Codeforces. Aquí encontrarás código, ideas y algunas notas sobre cómo resolví ciertos desafíos. Espero que te sirva de inspiración o ayuda!
 
-¡Hola! 👋 Soy un entusiasta de la programación competitiva y este es mi repositorio personal donde subo mis soluciones a problemas de Codeforces. Aquí encontrarás códigos, ideas y algunos comentarios sobre cómo resolví ciertos problemas. ¡Espero que te sirva de inspiración o ayuda!
-¿Quién soy?
+🧑‍💻 Sobre mí
+Rol: Ingeniero de datos junior (pero aquí, solo un aficionado a los algoritmos 🤓).
+Hobbies: Programar, resolver problemas, aprender cosas nuevas y participar en competiciones.
+Objetivo: Mejorar mis habilidades, subir mi rating en Codeforces y compartir lo que aprendo.
+📂 ¿Qué encontrarás aquí?
+✔ Soluciones: Código en Python, C++ y Java de los problemas que he resuelto.
+✔ Explicaciones: A veces incluyo notas sobre mi enfoque y estrategias utilizadas.
+✔ Organización: Intento clasificar los problemas por concurso, dificultad o tema (si me da tiempo 😅).
 
-    Rol: Ingeniero de datos junior (pero aquí soy solo un aficionado a los algoritmos).
+🎯 ¿Por qué comparto mis soluciones?
+Aprendizaje: Subir mis soluciones me ayuda a repasar y consolidar mis conocimientos.
+Colaboración: Si alguien está atascado en un problema, tal vez mi solución pueda darle una idea.
+Motivación: Ver mi progreso en GitHub me anima a seguir practicando.
+📊 Mis stats en Codeforces
+🔗 Perfil: 
+📈 Rating actual: (¡y subiendo! 🚀)
 
-    Hobbies: Programar, resolver problemas, aprender cosas nuevas y participar en competiciones.
+🚀 Gráficos de actividad en Codeforces
 
-    Objetivo: Mejorar mis habilidades, subir mi rating en Codeforces y compartir lo que aprendo.
+📊 Visualiza más estadísticas aquí: Codeforces Visualizer
 
-¿Qué hay aquí?
+📌 Mis estadísticas en GitHub
 
-    Soluciones: Código en Python, C++ o Java de problemas que he resuelto.
 
-    Explicaciones: A veces dejo notas sobre cómo pensé el problema o qué enfoque usé.
+🤝 ¿Quieres contribuir?
+Si encuentras un error, tienes una mejor solución o simplemente quieres sugerir algo, ¡abre un issue o un pull request! Siempre estoy abierto a aprender y mejorar.
 
-    Organización: Los problemas están clasificados por concurso, dificultad o tema (si me da tiempo de organizarlos 😅).
+¡Gracias por pasarte por aquí! 🚀 Nos vemos en Codeforces. 💻🔥
 
-¿Por qué hago esto?
-
-    Aprendizaje: Subir mis soluciones me ayuda a repasar y entender mejor los problemas.
-
-    Compartir: Si alguien está atascado en un problema, quizás mi solución le dé una idea.
-
-    Motivación: Ver mi progreso en GitHub me anima a seguir practicando.
-
-¿Quieres contribuir?
-
-Si encuentras un error, una mejor solución o simplemente quieres sugerir algo, ¡no dudes en abrir un issue o un pull request! Siempre estoy abierto a aprender y mejorar.
-Mis stats en Codeforces
-
-    Perfil: 
-
-    Rating:
-
-¡Gracias por pasarte por aquí! Espero que encuentres algo útil o interesante. ¡Nos vemos en Codeforces! 💻🔥

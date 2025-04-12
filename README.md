@@ -29,7 +29,7 @@ Motivación: Ver mi progreso en GitHub me anima a seguir practicando.
 
 🔗 Perfil: 
 
-📈 Rating actual: (¡y subiendo! 🚀)
+📈 Rating actual: Pupil (¡y subiendo! 🚀)
 
 
 🚀 Gráficos de actividad en Codeforces
